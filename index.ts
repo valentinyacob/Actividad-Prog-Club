@@ -14,9 +14,9 @@ imprimirSocios.agregarSocio()
 imprimirSocios.agregarSocio()
 console.log(imprimirSocios.data());
 imprimirSocios.buscarPorDeporte(2);
-imprimirSocios.buscarPorNombre("Guido")
+imprimirSocios.buscarPorNombre("Valentin")
 imprimirSocios.buscarPorApellido('Yacob')
-imprimirSocios.buscarPorDNI(43247700);
+imprimirSocios.buscarPorDNI(43247699);
 
     
 
